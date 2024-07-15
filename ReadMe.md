@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://profile-counter.glitch.me/atullya/count.svg?"  />
+</div>
+
 # 💫 About Me:
 <h2 align="center">I'm Atullya Maharjan</h2>
 🔭 I’m currently working<br>👯 I’m looking to collaborate on company<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
@@ -19,14 +23,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Atullya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Atullya&icon=7&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/atullya/count.svg?"  />
-</div>
 
 
 
