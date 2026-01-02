@@ -9,7 +9,7 @@
 I am a passionate Software Engineer focused on building scalable web applications and exploring the intersection of AI and human-centric design. I thrive on turning complex problems into elegant, efficient code.
 
 - 🔭 I’m currently working on **MERN projects integrated with LLM-based automation**
-- 🌱 I’m currently learning **Advanced CI/CD workflows and LLM Context Management**
+- 🌱 I’m currently learning **Advanced CI/CD workflows**
 - 💬 Ask me about **MongoDB, Express, React, Node.js, or Prompt Engineering**
 - 🥅 2025 Goals: Deploy a production-ready LLM-powered SaaS application
 - ⚡ Fun fact: I spend my free time playing chess
