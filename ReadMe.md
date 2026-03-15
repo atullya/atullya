@@ -20,7 +20,7 @@ I am a passionate Software Engineer focused on building scalable web application
   <br>
   <img src="https://img.shields.io/badge/LLM_Integration-AI-blueviolet?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/CI%2FCD-Github%20Actions-blue?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fusemachines-Intern-red?style=for-the-badge" />
+
 </p>
 
 ---
